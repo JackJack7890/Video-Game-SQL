@@ -1,1 +1,100 @@
-
+Super Mario Bros.;1980s;Action,Platformer;Hardcore;Single Player,Multiplayer;Nintendo
+Donkey Kong;1980s;Action,Arcade,Platformer;Hardcore;Single Player;Nintendo
+PAC-MAN;1980s;Action,Arcade;Casual,Hardcore;Single Player;Bandai Namco
+Contra;1980s;Action,Arcade,Platformer,Run n' gun;Hardcore;Single Player,Multiplayer;Konami
+Tetris;1980s;Arcade,Puzzle,Strategy;Casual,Hardcore;Single Player;Nintendo
+Dragon's Lair;1980s;Action,Arcade;Hardcore;Single Player,Multiplayer;Cinematronics
+Mike Tyson's Punch-Out!!;1980s;Action,Arcade,Fighting,Sports;Hardcore;Single Player;Nintendo
+Qix;1980s;Arcade,Puzzle,Strategy;Hardcore;Single Player;Taito Corporation
+Space Invaders;1980s;Action,Arcade,Shoot 'em up;Casual,Hardcore;Single Player;Taito Corporation
+Galaga;1980s;Action,Arcade,Shoot 'em up;Hardcore;Single Player;Bandai Namco
+Dig-Dug;1980s;Arcade;Hardcore;Single Player;Bandai Namco
+Mega Man 2;1980s;Action,Platformer,Run n' gun;Hardcore;Single Player;Capcom
+Space Harrier;1980s;Action,Arcade,Rail shooter;Hardcore;Single Player;SEGA
+The Legend of Zelda;1980s;Action,Adventure,Role playing game;Hardcore;Single Player;Nintendo
+Centipede;1980s;Action,Arcade,Shoot 'em up;Hardcore;Single Player;Atari, Inc.
+Berzerk;1980s;Action,Arcade,Shoot 'em up;Hardcore;Single Player;Stern Electronics Inc.
+Missile Command;1980s;Action,Arcade,Shoot 'em up,Strategy;Hardcore;Single Player;Atari, Inc.
+New Rally-X;1980s;Action,Arcade;Hardcore;Single Player;Bandai Namco
+OutRun;1980s;Action,Arcade,Racing;Hardcore;Single Player;SEGA
+Mario Bros. Classic;1980s;Action,Arcade,Platformer;Hardcore;Single Player,Multiplayer;Nintendo
+Lode Runner;1980s;Platformer,Puzzle,Strategy;Hardcore;Single Player;Broderbund Software
+Prince of Persia;1980s;Action,Cinematic platformer,Puzzle;Hardcore;Single Player;Broderbund Software
+Bomberman;1980s;Action,Puzzle;Hardcore;Single Player;Hudson Soft
+Robotron: 2084;1980s;Action,Arcade,Shoot 'em up;Hardcore;Single Player;Williams Electronics
+Castlevania;1980s;Action,Adventure,Platformer;Hardcore;Single Player;Konami
+Sonic the Hedgehog 2;1990s;Action,Platformer;Hardcore;Single Player,Multiplayer;SEGA
+Rayman;1990s;Action,Platformer;Hardcore;Single Player;Ubisoft
+Oddworld: Abe's Oddysee;1990s;Action,Adventure,Cinematic platformer,Puzzle,Stealth;Hardcore;Single Player,Multiplayer;Oddworld Inhabitants Inc.
+DOOM (1993);1990s;Action,First-person shooter;Hardcore;Single Player,Multiplayer;id Software
+Crash Bandicoot;1990s;Action,Adventure,Platformer;Hardcore;Single Player;Naughty Dog
+Star Fox;1990s;Action,Rail shooter;Hardcore;Single Player;Nintendo
+Streets of Rage 2;1990s;Action,Beat 'em up;Hardcore;Single Player,Multiplayer;SEGA
+Earthworm Jim;1990s;Action,Run n' gun;Hardcore;Single Player;Interplay Entertainment
+Final Fantasy VII;1990s;Adventure,Role playing game,Strategy;Single Player;Square Enix
+GoldenEye 007;1990s;Action,First-person shooter,Stealth;Hardcore;Single Player,Multiplayer;Nintendo
+Super Mario 64;1990s;Action,Adventure,Collect-a-thon,Platformer;Hardcore;Single Player;Nintendo
+Banjo-Kazooie;1990s;Action,Adventure,Collect-a-thon,Platformer;Hardcore;Single Player;Nintendo
+Panic Restaurant;1990s;Action,Platformer;Hardcore;Single Player;Taito Corporation
+The Secret of Monkey Island;1990s;Adventure,Point-and-click,Puzzle;Casual;Single Player;LucasArts
+Mortal Kombat;1990s;Action,Arcade,Fighting;Hardcore;Single Player,Multiplayer;Midway Games
+Street Fighter II: The World Warrior;1990s;Action,Arcade,Fighting;Hardcore;Single Player,Multiplayer;Capcom
+Tomb Raider;1990s;Action,Adventure;Hardcore;Single Player;Eidos Interactive
+Dr. Mario;1990s;Puzzle;Casual,Hardcore;Single Player,Multiplayer;Nintendo
+The Neverhood;1990s;Adventure,Point-and-click,Puzzle;Casual;Single Player;DreamWorks Interactive
+The House of the Dead;1990s;Action,Arcade,Rail shooter;Hardcore;Single Player,Multiplayer;SEGA
+Pepsiman;1990s;Action,Auto-runner;Hardcore;Single Player;KID
+Shenmue;1990s;Action,Adventure,Simulation;Casual,Hardcore;Single Player;SEGA
+Crazy Taxi;1990s;Action,Arcade,Racing;Hardcore;Single Player;SEGA
+Super Puzzle Fighter II Turbo;1990s;Arcade,Puzzle;Casual,Hardcore;Single Player,Multiplayer;Capcom
+Day of the Tentacle;1990s;Adventure,Point-and-click,Puzzle;Casual;Single Player;LucasArts
+Bejeweled;2000s;Match-3,Puzzle;Casual;Single Player;PopCap Games
+Plants Vs. Zombies;2000s;Puzzle,Strategy,Tower defense;Casual,Hardcore;Single Player,Multiplayer;PopCap Games
+Peggle;2000s;Puzzle,Strategy;Casual;Single Player,Multiplayer
+Insaniquarium Deluxe;2000s;Action,Simulation,Strategy;Casual,Hardcore;Single Player;PopCap Games
+Zuma Deluxe;2000s;Action,Puzzle,Strategy;Casual,Hardcore;Single Player;PopCap Games
+Bookworm Adventures;2000s;Puzzle,Role playing game,Strategy;Casual,Hardcore;Single Player;PopCap Games
+Neighbours From Hell;2000s;Puzzle,Stealth;Casual;Single Player;THQ Nordic
+Eets: Hunger. It's Emotional;2000s;Puzzle;Casual;Single Player;Klei Entertainment
+Sonic Adventure 2: Battle;2000s;Action,Adventure,Platformer,Racing;Hardcore;Single Player,Multiplayer;SEGA
+Kirby: Nightmare in Dreamland;2000s;Action,Platformer;Casual,Hardcore;Single Player,Multiplayer;Nintendo
+Skate.;2000s;Simulation,Sports;Hardcore;Single Player,Multiplayer;Electronic Arts
+Madden NFL 2003;2000s;Simulation,Sports;Hardcore;Single Player,Multiplayer;Electronic Arts
+SpongeBob SquarePants: Battle For Bikini Bottom;2000s;Action,Adventure,Collect-a-thon,Platformer;Hardcore;Single Player;THQ
+Animal Crossing;2000s;Simulation;Casual;Single Player,Multiplayer;Nintendo
+Wallace & Gromit's Grand Adventures;2000s;Adventure,Point-and-click,Puzzle;Casual;Single Player;Telltale Games
+Super Monkey Ball 2;2000s;Arcade,Platformer;Hardcore;Single Player,Multiplayer;SEGA
+Jet Set Radio;2000s;Action,Platformer,Sports;Hardcore;Single Player;SEGA
+Assassin's Creed;2000s;Action,Adventure,Stealth;Hardcore;Single Player;Ubisoft
+Marble Blast Gold;2000s;Platformer,Puzzle;Hardcore;Single Player;Monster Studios
+Psychonauts;2000s;Action,Adventure,Platformer;Hardcore;Single Player;Double Fine Studios
+DOOM 3;2000s;Action,First-person shooter,Survival horror;Hardcore;Single Player,Multiplayer;id Software
+Spore Creatures;2000s;Action,Adventure,Role playing game,Simulation;Hardcore;Single Player,Multiplayer;Electronic Arts
+Dr. Muto;2000s;Action,Adventure,Collect-a-thon,Platformer;Hardcore;Single Player;Midway Games
+Resident Evil (2002);2000s;Action,Adventure,Survival horror;Hardcore;Single Player;Capcom
+Shinobi (2002);2000s;Action,Adventure,Hack and slash;Hardcore;Single Player;SEGA
+Shovel Knight;2010s;Action,Adventure,Platformer;Hardcore;Single Player,Multiplayer;Yacht Club Games
+Super Smash Bros. Ultimate;2010s;Action,Fighting,Platformer;Hardcore;Single Player,Multiplayer;Nintendo
+Raskulls;2010s;Action,Platformer,Puzzle,Racing,Strategy;Hardcore;Single Player,Multiplayer;Halfbrick Studios
+Portal;2010s;Adventure,Platformer,Puzzle;Hardcore;Single Player;Valve
+Stardew Valley;2010s;Role playing game,Simulation;Casual;Single Player,Multiplayer;ConcernedApe
+The Sims 4;2010s;Simulation;Casual;Single Player;Electronic Arts
+Bloons TD 6;2010s;Strategy,Tower defense;Hardcore;Single Player,Multiplayer;Ninja Kiwi
+Mario Kart 8 Deluxe;2010s;Action,Racing;Hardcore;Single Player,Multiplayer;Nintendo
+The Adventures of Shuggy;2010s;Action,Platformer,Puzzle;Hardcore;Single Player,Multiplayer;Smudged Cat Games
+Cuphead;2010s;Action,Platformer,Run n' gun;Hardcore;Single Player,Multiplayer;Studio MDHR
+Yakuza Kiwami;2010s;Action,Adventure,Beat 'em up,Simulation;Hardcore;Single Player;SEGA
+Ms. Splosion Man;2010s;Action,Platformer;Hardcore;Single Player,Multiplayer;Twisted Pixel
+Plants Vs. Zombies: Garden Warfare 2;2010s;Action;Hardcore;Single Player,Multiplayer;Electronic Arts
+Kitty Powers' Matchmaker;2010s;Simulation;Casual;Single Player;Magic Notion
+Minecraft;2010s;Action,Adventure,Sandbox,Simulation;Casual,Hardcore;Single Player,Multiplayer;Mojang Studios
+Terraria;2010s;Action,Adventure,Sandbox;Hardcore;Single Player,Multiplayer;Re-Logic
+ilomilo;2010s;Puzzle;Casual;Single Player,Multiplayer;Southend Interactive
+Amnesia: The Dark Descent;2010s;Action,Adventure,Survival horror;Hardcore;Single Player;Frictional Games
+Devil May Cry 5;2010s;Action,Adventure,Hack and slash;Hardcore;Single Player,Multiplayer;Capcom
+Battleblock Theater;2010s;Action,Platformer,Puzzle;Hardcore;Single Player,Multiplayer;The Behemoth
+Sonic Generations;2010s;Action,Platformer;Hardcore;Single Player;SEGA
+Sonic Dash;2010s;Action,Auto-runner,Mobile game;Hardcore;Single Player;SEGA HARDLight
+Candy Crush Saga;2010s;Match-3,Mobile game,Puzzle;Casual;Single Player;King
+Among Us;2010s;Mobile game,Stealth;Casual;Multiplayer;Innersloth
+Mega Man 11;2010s;Action,Platformer,Run n' gun;Hardcore;Single Player;Capcom
